@@ -12,7 +12,7 @@ The puzzles are [here!](https://adventofcode.com/2022).
 * Day 7: [No Space Left On Device](https://github.com/jimflood/aoc2022/blob/main/src/Day7.hs)
 * Day 8: [Treetop Tree House](https://github.com/jimflood/aoc2022/blob/main/src/Day8.hs)
 * Day 9: [Rope Bridge](https://github.com/jimflood/aoc2022/blob/main/src/Day9.hs)
-* Day 10: ???
+* Day 10: [Cathode-Ray Tube](https://github.com/jimflood/aoc2022/blob/main/src/Day10.hs)
 * Day 11: ???
 * Day 12: ???
 * Day 13: ???
