@@ -15,7 +15,7 @@ The puzzles are [here!](https://adventofcode.com/2022).
 * Day 10: [Cathode-Ray Tube](https://github.com/jimflood/aoc2022/blob/main/src/Day10.hs)
 * Day 11: [Monkey in the Middle](https://github.com/jimflood/aoc2022/blob/main/src/Day11.hs)
 * Day 12: [Hill Climbing Algorithm](https://github.com/jimflood/aoc2022/blob/main/src/Day12.hs)
-* Day 13: ???
+* Day 13: [Distress Signal](https://github.com/jimflood/aoc2022/blob/main/src/Day13.hs)
 * Day 14: ???
 * Day 15: ???
 * Day 16: ???
