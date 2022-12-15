@@ -16,8 +16,8 @@ The puzzles are [here!](https://adventofcode.com/2022).
 * Day 11: [Monkey in the Middle](https://github.com/jimflood/aoc2022/blob/main/src/Day11.hs)
 * Day 12: [Hill Climbing Algorithm](https://github.com/jimflood/aoc2022/blob/main/src/Day12.hs)
 * Day 13: [Distress Signal](https://github.com/jimflood/aoc2022/blob/main/src/Day13.hs)
-* Day 14: ???
-* Day 15: ???
+* Day 14: [Regolith Reservoir](https://github.com/jimflood/aoc2022/blob/main/src/Day14.hs)
+* Day 15: [Beacon Exclusion Zone](https://github.com/jimflood/aoc2022/blob/main/src/Day15.hs)
 * Day 16: ???
 * Day 17: ???
 * Day 18: ???
