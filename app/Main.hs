@@ -18,7 +18,14 @@ module Main (main) where
 -- import Day15 (day15)
 -- import Day16 (day16)
 -- import Day17 (day17)
-import Day18 (day18)
+-- import Day18 (day18)
+-- import Day19 (day19)
+-- import Day20 (day20)
+-- import Day21 (day21)
+-- import Day22 (day22)
+-- import Day23 (day23)
+import Day24 (day24)
+-- import Day25 (day25)
 
 main :: IO ()
-main = day18
+main = day24
