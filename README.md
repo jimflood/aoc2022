@@ -18,13 +18,13 @@ The puzzles are [here!](https://adventofcode.com/2022).
 * Day 13: [Distress Signal](https://github.com/jimflood/aoc2022/blob/main/src/Day13.hs)
 * Day 14: [Regolith Reservoir](https://github.com/jimflood/aoc2022/blob/main/src/Day14.hs)
 * Day 15: [Beacon Exclusion Zone](https://github.com/jimflood/aoc2022/blob/main/src/Day15.hs)
-* Day 16: ???
-* Day 17: ???
-* Day 18: ???
-* Day 19: ???
-* Day 20: ???
-* Day 21: ???
-* Day 22: ???
-* Day 23: ???
-* Day 24: ???
-* Day 25: ???
+* Day 16: [Proboscidea Volcanium](https://github.com/jimflood/aoc2022/blob/main/src/Day16.hs)
+* Day 17: [Pyroclastic Flow](https://github.com/jimflood/aoc2022/blob/main/src/Day17.hs)
+* Day 18: [Boiling Boulders](https://github.com/jimflood/aoc2022/blob/main/src/Day18.hs)
+* Day 19: [Not Enough Minerals](https://github.com/jimflood/aoc2022/blob/main/src/Day19.hs)
+* Day 20: [Grove Positioning System](https://github.com/jimflood/aoc2022/blob/main/src/Day20.hs)
+* Day 21: [Monkey Math](https://github.com/jimflood/aoc2022/blob/main/src/Day21.hs)
+* Day 22: [Monkey Map](https://github.com/jimflood/aoc2022/blob/main/src/Day22.hs)
+* Day 23: [Unstable Diffusion](https://github.com/jimflood/aoc2022/blob/main/src/Day23.hs)
+* Day 24: [Blizzard Basin](https://github.com/jimflood/aoc2022/blob/main/src/Day24.hs)
+* Day 25: [Full of Hot Air](https://github.com/jimflood/aoc2022/blob/main/src/Day25.hs)
